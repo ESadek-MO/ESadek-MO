@@ -1,16 +1,14 @@
-## Hi there 👋
+[![GitHub ESadek-MO](https://img.shields.io/github/followers/esadek-mo?label=follow&style=social)](https://github.com/ESadek-MO)
 
-<!--
-**ESadek-MO/ESadek-MO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏢 Software Developer at Met Office, UK
 
-Here are some ideas to get you started:
+### Check out these repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista
+- [Iris](https://github.com/scitools/iris) - A powerful, format-agnostic, community-driven Python package for analysing and visualising Earth science data
+- [Tephi](https://github.com/scitools/tephi) - Tephigram plotting in Python
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=esadek-mo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-profile-trophy.vercel.app/?username=esadek-mo&theme=onedark">
+</p>
