@@ -2,7 +2,7 @@
 
 ## 🏢 Software Developer at Met Office, UK
 
-<img align="center" src ="https://github-profile-trophy.vercel.app/?username=esadek-mo&theme=onedark">
+<img align="center" src ="https://github-profile-trophy.vercel.app/?username=esadek-mo&theme=kimbie_dark&title=-Followers,-Stars&margin-w=15">
 
 ### Check out these repositories:
 
